@@ -1,0 +1,2 @@
+Install the Railway URL as a desktop shortcut through your browser.
+The manifest does not include app icons yet; browsers may offer only Create shortcut.
